@@ -1,0 +1,9 @@
+# Bibliotecas usadas no curso. Instale com:  pip install -r requirements.txt
+#
+# Módulos 01 a 05
+notebook    # o Jupyter Notebook (Módulo 01 em diante)
+requests    # pedidos HTTP (Módulo 02 em diante)
+parsel      # XPath e seletores CSS; instala também o lxml (Módulo 03 em diante)
+#
+# As bibliotecas dos Módulos 06 em diante serão acrescentadas aqui quando eles forem publicados.
+# Depois de baixar a versão nova do curso, rode o comando acima de novo.

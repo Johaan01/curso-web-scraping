@@ -1,0 +1,20 @@
+# Fora do repositório: a versão antiga do curso e as ferramentas de produção
+velho/
+_autoria/
+
+# Ambiente virtual e arquivos do Python e do Jupyter
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Datasets gerados pelos notebooks
+**/dados/
+
+# Arquivos temporários do exportar_pdf.py
+*-impressao.html
+_previa.html
+
+# Configuração local do editor
+*.code-workspace
+.vscode/

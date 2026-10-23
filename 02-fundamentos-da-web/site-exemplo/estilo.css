@@ -1,0 +1,12 @@
+body { font-family: Georgia, "Times New Roman", serif; max-width: 720px; margin: 40px auto; padding: 0 20px; color: #2b2b2b; background: #fbf8f2; }
+header { border-bottom: 2px solid #8b5e34; margin-bottom: 24px; }
+h1 { color: #8b5e34; margin-bottom: 4px; }
+.descricao { color: #6b6b6b; margin-top: 0; }
+.livros { list-style: none; padding: 0; }
+.livro { display: grid; grid-template-columns: 1fr auto; padding: 12px 0; border-bottom: 1px solid #e5ddd0; }
+.titulo { font-size: 1.15em; color: #1f4e79; text-decoration: none; }
+.titulo:hover { text-decoration: underline; }
+.autor { grid-column: 1; color: #6b6b6b; font-style: italic; }
+.preco { grid-column: 2; grid-row: 1 / span 2; align-self: center; font-weight: bold; color: #2f6b3a; }
+footer { margin-top: 32px; font-size: 0.9em; color: #8a8a8a; }
+.voltar { display: inline-block; margin-top: 24px; color: #1f4e79; }
