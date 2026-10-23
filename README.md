@@ -16,7 +16,7 @@ Curso prático, em notebooks Jupyter e em português, de **coleta de dados da we
 4. [Seletores XPath e CSS](04-seletores-xpath-css/): extrair dados do HTML com o `parsel`
 5. [Paginação e navegação](05-paginacao-e-navegacao/): percorrer sites inteiros
 
-Os Módulos 06 a 10 (pandas, scraper robusto e APIs, projeto final, Selenium e Scrapy) serão publicados aqui quando estiverem prontos.
+Os Módulos 06 a 10 (pandas, scraper robusto e APIs, projeto final, Selenium e Scrapy) **ainda estão em desenvolvimento** e serão publicados neste repositório futuramente.
 
 ## Referências
 
