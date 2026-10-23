@@ -33,6 +33,6 @@ Cada módulo traz, no final, a lista completa do que foi consultado. As principa
 
 ## Créditos e uso de inteligência artificial
 
-Curso criado por **Johaan** ([@Johaan01](https://github.com/Johaan01)).
+Curso criado por **Johaan** ([@Johaan01](https://github.com/Johaan01)). O conteúdo nasceu do material que ele reuniu e usava como referência no dia a dia de trabalho com web scraping, reorganizado aqui na forma de um curso.
 
 A produção contou com o auxílio de ferramentas de inteligência artificial: principalmente o **Claude** (Anthropic), na redação, no código e nas imagens, e o **Gemini** (Google), em buscas e na seleção de referências. Todo o material foi monitorado e revisado por um humano.
